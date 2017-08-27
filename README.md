@@ -1,6 +1,9 @@
 # krackin
 Technical round assignment.
 
+Create a new databses in MySQL database named 'coursera' and import the sql query which is placed in 'database-sql' folder and then change the 'server name', 'username', 'password' in 'connection.php' file.
+
+
 Basic Features (as asked to implement by krackin): 
   ->Fetching courses in json format and extracting values in array.
   ->Showing list of courses in single page.
